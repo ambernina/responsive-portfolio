@@ -40,9 +40,3 @@ img {
 .text-block p {
     color: #ffffff;
 }
-
-.clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-}
