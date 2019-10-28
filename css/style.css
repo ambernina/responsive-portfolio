@@ -14,12 +14,10 @@ header {
 }
 
 h1 {
-    color: #ffffff;
+    color: #4aaaa5;
     font-family: 'Montserrat', sans-serif;
-    background: #4aaaa5;
     padding: 19px 25px 19px 25px;
     text-align: center;
-    float: left;
     margin-block-start: 0em;
     margin-block-end: 0em;
     margin-inline-start: 0px;
