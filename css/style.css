@@ -74,7 +74,6 @@ hr {
 p, form {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
-    text-align: center;
     line-height: 250%;
     color: #777777;
 }
@@ -83,9 +82,13 @@ p, form {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.5em;
     text-align: center;
-    padding-top: 25px;
+    padding: 10px;
     margin: 0 auto;
     color: #dddddd;
+}
+
+.p2 {
+    text-align: center;
 }
 
 footer {
